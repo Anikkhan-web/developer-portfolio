@@ -5,7 +5,10 @@ body{
 }
 h1{
     font-size: 50px;
+    
 }
+
+
 h2{
     font-size:40px ;
 }
@@ -15,7 +18,7 @@ h2{
 
 .flexible-container{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
     
 }
 .half-width{
@@ -24,6 +27,13 @@ h2{
     
 
 }
+
+.half-width h1 a{
+    text-decoration: none;
+    
+
+}
+
 .half-width img{
     width: 80%;
     
