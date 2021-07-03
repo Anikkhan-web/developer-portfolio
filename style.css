@@ -15,7 +15,7 @@ h2{
 
 .flexible-container{
     display: flex;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
     
 }
 .half-width{
@@ -58,11 +58,14 @@ h2{
     background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    
+
 
 }
 .experience-item{
    
     width: 40%;
+    
     margin-left:5%;
     margin-right: 5%;
     padding-left: 20px;
